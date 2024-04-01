@@ -8,7 +8,7 @@ I possess experience in deploying applications and proficiency in a variety of w
 - Express
 I also have experience developing Shopify and WordPress applications. If you need one that meets your specific needs, please feel free to contact me at email: isumalatov@gmail.com.
 
-###Languages:
+### Languages:
 - English
 - Spanish
 - Russian
