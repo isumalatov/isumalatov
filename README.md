@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋
+**Experience:**
+Ilyas Umalatov. I have application deployment experience and am proficient in a variety of web development languages and frameworks, particularly:
+- React
+- Nextjs
+- Remix
+- Django
+- Express
 
-<!--
-**isumalatov/isumalatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also have experience developing Shopify and WordPress applications. If you need one that meets your specific needs, please feel free to contact me at email: isumalatov@gmail.com.
 
-Here are some ideas to get you started:
+**Languages:**
+- English
+- Spanish
+- Russian
+- Portuguese
+- Arabic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I predominantly utilize GitLab for my development work, but you're welcome to ask about my additional projects.
