@@ -9,7 +9,7 @@
 **I also have experience developing Shopify and WordPress applications. If you need one that meets your specific needs, please feel free to contact me at email: isumalatov@gmail.com.**
 
 ### Languages:
-*- English*
+- *English*
 *- Spanish*
 - Russian
 - Portuguese
