@@ -5,7 +5,7 @@
 
 - *React.*
 - *Nextjs.*
-- *Remix.*
+- *Expo.*
 - *Django.*
 - *Express.*
 
