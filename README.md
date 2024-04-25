@@ -21,7 +21,7 @@
 
 ### Development Workflow:
 
-- *I primarily utilize GitLab for version control.*
+- *I primarily utilize GitLab for version control(Currently using GitHub).*
 - *Feel free to inquire about other projects!*
   
 **Also We are a leading provider of email marketing solutions for businesses of all sizes. Our platform is packed with features that can help you grow your business. Please contact us for pricing information.**
