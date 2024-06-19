@@ -1,18 +1,12 @@
-## Hi there 👋
 ### Experience:
-
-**I possess experience in deploying applications and proficiency in a variety of web development languages and frameworks. Here are some I'm particularly skilled in:**
-
 - *React.*
 - *Nextjs.*
 - *Expo.*
 - *Django.*
 - *Express.*
-
-**I also have experience developing Shopify and WordPress applications. If you need one that meets your specific needs, please feel free to contact me at email: isumalatov@gmail.com.**
+- *Shopify App Dev.*
 
 ### Languages:
-
 - *English.*
 - *Spanish.*
 - *Russian.*
@@ -20,8 +14,5 @@
 - *Arabic.*
 
 ### Development Workflow:
-
 - *I primarily utilize GitLab for version control(Currently using GitHub).*
 - *Feel free to inquire about other projects!*
-  
-**Also We are a leading provider of email marketing solutions for businesses of all sizes. Our platform is packed with features that can help you grow your business. Please contact us for pricing information.**
