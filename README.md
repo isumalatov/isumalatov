@@ -1,5 +1,5 @@
 ### Experience:
-- Web3.*
+- *Web3.*
 - *React.*
 - *Nextjs.*
 - *Expo.*
