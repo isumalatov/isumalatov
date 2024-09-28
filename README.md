@@ -1,10 +1,10 @@
 ### Experience:
+- "Web3.*
 - *React.*
 - *Nextjs.*
 - *Expo.*
 - *Django.*
 - *Express.*
-- *Shopify App Dev.*
 
 ### Languages:
 - *English.*
