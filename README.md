@@ -1,1 +1,1 @@
-Thanks Gambling
+Thanks
